@@ -85,7 +85,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 )
 # https://www.gbmb.org/mb-to-bytes
 
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "1ApWapzMBu1P-Ilhn2X-0YQCCHBE6mniHXhur0X9HvVqPusda9eJE65HwUl_gMInSuTmfYPu6Squa31j2ek5kZlrylcqNq9lWsrf0UfOV8jtjx1vRnBjne_fLDimmRebHoqKBLoWgoeE-1WBTJGegut-zYs_haqvqkBuBm0h5JoS8p-KzLWu-4ZFDxQnn1Sq4-QxbXhNqlblr5iEPBG4puvcWv99EGy7m5uwg4EymtxwatFkQJA1Lyib4pzLCKgtB4lkPNmmKmskvzbRS5D9IjyydPxf90Tg_JWU8AvUCzJ4o4ihKhLyQ4tNTpt9UMVGPLOhKURu_32BD3rNmX5amEs4S6NIwOMQ=")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
